@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalculateurImpots</string>
+    <string name="nom">Nom</string>
+    <string name="hint_nom">Entrez votre nom</string>
+    <string name="adresse">Adresse</string>
+    <string name="hint_adresse">Entrez votre adresse</string>
+    <string name="surface_m">Surface (m²)</string>
+    <string name="hint_surface">0</string>
+    <string name="nombre_de_pi_ces">Nombre de pièces</string>
+    <string name="hint_pieces">0</string>
+    <string name="piscine">Piscine</string>
+    <string name="calculer">Calculer</string>
+    <string name="resultat_format">M. %s (%s)\nImpôt de base : %.2f DH\nSupplément : %.2f DH\nTotal : %.2f DH</string>
+</resources>
